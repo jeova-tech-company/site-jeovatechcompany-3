@@ -35,6 +35,6 @@ Este subdomínio pode servir como ambiente de staging para validação de funcio
 **Geomar**  
 CEO da Jeová Tech Company  
 Especialista em WordPress e soluções digitais  
-🔗 [Site principal](https://jeovatechcompany.com.br/)
+🔗 [Site principal](https://jeovatechcompany3.jeovatechcompany.com.br/)
 
 ---
